@@ -11,7 +11,7 @@ const Navbar = () => {
           {links.map((link) => {
             const { id, href, text } = link;
             return (
-              <a 
+              <a
                 key={id}
                 href={href}
                 className='capitalize text-lg tracking-wide hover:text-emerald-600 duration-300'
