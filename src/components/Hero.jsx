@@ -24,7 +24,7 @@ const Hero = () => {
           </div>
         </article>
         <article className='hidden md:block rounded-3xl'>
-          <img className='rounded-tl-lg rounded-br-md' src="/photo.port.jpg" alt="" />
+          <img className='rounded-tl-lg rounded-br-md' src="https://www.codeimmersives.com/wp-content/uploads/2021/04/term1.png" alt="" />
         </article>
       </div>
     </div>
