@@ -38,10 +38,10 @@ export const projects = [
   {
     id: nanoid(),
     img: "https://i.pinimg.com/originals/c3/ec/b2/c3ecb2f252e456407b1e20b8754030d1.jpg",
-    url: "https://react-projects.netlify.app/",
+    url: "https://www.lawofficelazarov.com/",
     github: "https://gitlab.com/slavcoc/law-office-lazarov",
     title: "law-office-lazarov",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    text: "Тhis website is all created in Nuxt.js use Strapi Open source Node.js Headless CMS",
   },
   {
     id: nanoid(),
@@ -49,14 +49,14 @@ export const projects = [
    
     github: "https://github.com/aleksandar-stotka/sway",
     title: "second project",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    text: "e commerce web site , create in React.js for sale of furniture",
   },
   {
     id: nanoid(),
-    img: "https://i.pinimg.com/originals/c3/ec/b2/c3ecb2f252e456407b1e20b8754030d1.jpg",
+    img: "https://img.freepik.com/premium-vector/connecting-people-social-network-concept-bright-background-vector-illustration_191567-956.jpg",
     url: "https://react-projects.netlify.app/",
-    github: "https://gitlab.com/slavcoc/law-office-lazarov",
+    github: "https://github.com/aleksandar-stotka/project-friends-connect",
     title: "third project",
-    text: "This is my first Nuxt project , in this project i participate as developer. here i use GraphQl as a query language ",
+    text: "Interactive web page for communication between users ",
   },
 ];
