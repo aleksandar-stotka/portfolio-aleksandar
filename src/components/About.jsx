@@ -8,17 +8,13 @@ const About = () => {
         <article>
           <SectionTitle text="code and coffee" />
           <p className="text-slate-600 mt-8 leading-loose">
-            Hello, my name is Aleksandar, and I am a Front-End Developer from
-            Macedonia with one year of experience. I am an enthusiastic and
-            passionate individual who is committed to continuous learning and
-            growth. I began my programming journey by focusing on Front-End
-            programming languages and have also gained valuable experience in
-            various DevOps segments. To enhance my programming knowledge, I have
-            pursued various courses, and I remain dedicated to ongoing learning
-            and skill improvement. Throughout my career, I have had the
-            opportunity to work on several projects, some of which are available
-            on my GitHub profile. These projects predominantly feature
-            JavaScript as the primary programming language
+            Greetings! I'm Aleksandar, a Front-End Developer hailing from Macedonia, equipped with a year of experience. My enthusiasm and passion drive me to pursue continuous learning and growth.
+            My journey commenced with a focus on Front-End languages, expanding into diverse DevOps segments. I've enriched my skills through various courses, persistently dedicated to refining my craft.
+
+            My career's been adorned with several projects, showcased on my GitHub profile. JavaScript takes the spotlight in most, showcasing my proficiency in this primary language.
+
+            I'm keen to explore new opportunities within your company, aiming to contribute my expertise and dedication to the team's and organization's success.
+
           </p>
         </article>
       </div>
