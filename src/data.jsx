@@ -56,6 +56,6 @@ export const projects = [
     img: "https://img.freepik.com/premium-vector/connecting-people-social-network-concept-bright-background-vector-illustration_191567-956.jpg",
     github: "https://github.com/aleksandar-stotka/project-friends-connect",
     title: "Project Friends Connect",
-    text: "Interactive web page , users create own peojects and communicate ",
+    text: "My personal project ,Interactive web page , users create own peojects and communicate ",
   },
 ];
