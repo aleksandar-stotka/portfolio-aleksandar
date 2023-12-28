@@ -1,4 +1,4 @@
-import { FaFacebook, FaGithubSquare, FaLinkedin, FaTwitterSquare } from 'react-icons/fa';
+import { FaFacebook, FaGithubSquare, FaLinkedin} from 'react-icons/fa';
 const Hero = () => {
   return (
     <div className='bg-emerald-100 py-24'>
