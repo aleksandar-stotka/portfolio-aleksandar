@@ -41,7 +41,7 @@ export const projects = [
     url: "https://www.lawofficelazarov.com/",
     github: "https://gitlab.com/slavcoc/law-office-lazarov",
     title: "law-office-lazarov",
-    text: "Тhis website is all created in Nuxt.js use Strapi Open source Node.js Headless CMS",
+    text: "This website represents my first substantial project as a developer. Built entirely with Nuxt.js and powered by Strapi, an open-source Node.js headless CMS, it showcases my initial foray into creating dynamic and scalable online solutions. This project reflects a significant milestone in my development journey, combining powerful technologies to deliver a robust user experience",
   },
   {
     id: nanoid(),
@@ -49,13 +49,15 @@ export const projects = [
    
     github: "https://github.com/aleksandar-stotka/sway",
     title: "Sway",
-    text: "e commerce web site , create in React.js for sale of furniture",
+    text: "E-Commerce Furniture Hub: A sleek and responsive web platform created with React.js, dedicated to the sale of quality furniture. It features an extensive array of filters, allowing users to effortlessly navigate and select products that best fit their preferences and needs",
   },
   {
     id: nanoid(),
     img: "https://img.freepik.com/premium-vector/connecting-people-social-network-concept-bright-background-vector-illustration_191567-956.jpg",
+    url: "https://project-friends-connect.netlify.app/",
+
     github: "https://github.com/aleksandar-stotka/project-friends-connect",
     title: "Project Friends Connect",
-    text: "My personal project ,Interactive web page , users create own peojects and communicate ",
+    text: "My Simple Project Manager: An Interactive Web Platform crafted with React.js, where users can effortlessly create and manage their own projects while engaging in seamless communication. Utilizing Firebase as a real-time database, it ensures efficient and reliable management of project data ",
   },
 ];
