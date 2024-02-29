@@ -54,7 +54,7 @@ export const projects = [
   {
     id: nanoid(),
     img: "https://img.freepik.com/premium-vector/connecting-people-social-network-concept-bright-background-vector-illustration_191567-956.jpg",
-    url: "https://project-friends-connect.netlify.app/",
+    url: "https://project-friends-connect.netlify.app",
 
     github: "https://github.com/aleksandar-stotka/project-friends-connect",
     title: "Project Friends Connect",
