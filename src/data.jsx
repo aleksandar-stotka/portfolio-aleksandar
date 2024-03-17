@@ -60,4 +60,22 @@ export const projects = [
     title: "Project Friends Connect",
     text: "My Simple Project Manager: An Interactive Web Platform crafted with React.js, where users can effortlessly create and manage their own projects while engaging in seamless communication. Utilizing Firebase as a real-time database, it ensures efficient and reliable management of project data ",
   },
+  {
+    id: nanoid(),
+    img: "https://reactjsexample.com/content/images/2021/10/Magic-Memory-Game-with-ReactJS.jpg",
+    url: "https://magic-match-sto.netlify.app/",
+
+    github: "https://github.com/aleksandar-stotka/match-magic",
+    title: "Match-Magic",
+    text: "Memory game, made in react.js,  one of my first personal projects",
+  },
+  {
+    id: nanoid(),
+    img: "https://img.freepik.com/free-vector/female-hands-holding-mobile-phone-with-newsletter-screen-woman-reading-world-news-using-smartphone-app-internet-flat-vector-illustration-newspaper-information-press-media-concept_74855-24529.jpg",
+    url: "https://sparkling-rabanadas-9d6078.netlify.app/",
+
+    github: "https://github.com/aleksandar-stotka/News-project",
+    title: "News-Project",
+    text: "My personal project , small but useful application, with the help of api, query, the user can choose in which area he can be informed, also this application is made in react.js,",
+  },
 ];
