@@ -1,5 +1,5 @@
 import { nanoid } from "nanoid";
-import { FaHtml5, FaJs, FaReact, FaVuejs } from "react-icons/fa";
+import { FaAws, FaHtml5, FaJs, FaLinux, FaNodeJs, FaPython, FaReact, FaVuejs } from "react-icons/fa";
 
 export const links = [
   { id: nanoid(), href: "#home", text: "home" },
@@ -33,6 +33,32 @@ export const skills = [
     icon: <FaVuejs className="h-16 w-16 text-emerald-500" />,
     text: "Vue.js is my first framework that I learned, I have done several projects with it, most of them are real projects for customers, I can single out one personal one that is listed below in the link",
   },
+  {
+    id: nanoid(),
+    title: "Node.js",
+    icon: <FaNodeJs className="h-16 w-16 text-emerald-500" />,
+    text: 'Im beginner in Node.js, but as I get deeper into the core of the language it gets more and more interesting '
+  },
+  {
+    id: nanoid(),
+    title: "Linux",
+    icon: <FaLinux className="h-16 w-16 text-emerald-500" />,
+    text: " I have been working with the Linux operating system for 2 years , and I have developed significant expertise that I believe adds value to my portfolio and showcases my skills with Linux. "
+  },
+  {
+    id: nanoid(),
+    title: "Python",
+    icon: <FaPython className="h-16 w-16 text-emerald-500" />,
+    text: " I've been immersing myself in Python, diligently honing my abilities and exploring its nuances. This proficiency with Python contributes to my portfolio, showcasing my adeptness with the language. "
+  },
+  {
+    id: nanoid(),
+    title: "Aws",
+    icon: <FaAws className="h-16 w-16 text-emerald-500" />,
+    text: "Modestly knowledge of Aws, future field of research, I learned about aws when I was studying DeVops "
+  },
+ 
+  
 ];
 export const projects = [
   {
