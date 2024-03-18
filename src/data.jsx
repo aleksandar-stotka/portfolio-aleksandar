@@ -73,7 +73,7 @@ export const projects = [
   {
     id: nanoid(),
     img: "https://us.123rf.com/450wm/axelbueckert/axelbueckert1904/axelbueckert190400031/122167768-feet-in-canvas-shoes-standing-inside-comfort-zone-foot-selfie-from-personal-perspective-chalk-text.jpg?ver=6",
-   
+    url:'https://magnificent-snickerdoodle-82b541.netlify.app/products',
     github: "https://github.com/aleksandar-stotka/sway",
     title: "Sway",
     text: "E-Commerce Furniture Hub: A sleek and responsive web platform created with React.js, dedicated to the sale of quality furniture. It features an extensive array of filters, allowing users to effortlessly navigate and select products that best fit their preferences and needs",
