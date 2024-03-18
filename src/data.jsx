@@ -50,7 +50,7 @@ export const skills = [
     id: nanoid(),
     title: "Python",
     icon: <FaPython className="h-16 w-16 text-emerald-500" />,
-    text: " I've been immersing myself in Python, diligently honing my abilities and exploring its nuances. This proficiency with Python contributes to my portfolio, showcasing my adeptness with the language. "
+    text: " I want to research and upgrade also in backend programming languages I have basic knowledge of python , "
   },
   {
     id: nanoid(),
