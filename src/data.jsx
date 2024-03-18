@@ -67,7 +67,7 @@ export const projects = [
 
     github: "https://github.com/aleksandar-stotka/match-magic",
     title: "Match-Magic",
-    text: "Memory game, made in react.js,  one of my first personal projects",
+    text: "A memory game developed using React.js, marking one of my earliest and most substantial personal projects",
   },
   {
     id: nanoid(),
@@ -76,6 +76,6 @@ export const projects = [
 
     github: "https://github.com/aleksandar-stotka/News-project",
     title: "News-Project",
-    text: "My personal project , small but useful application, with the help of api, query, the user can choose in which area he can be informed, also this application is made in react.js,",
+    text: "My personal project is a small yet useful application that utilizes APIs and queries. With this app, users can select the area in which they wish to receive information. Additionally, the application is built using React.js to ensure scalability without unnecessary complexity",
   },
 ];
