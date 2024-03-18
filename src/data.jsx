@@ -33,6 +33,7 @@ export const skills = [
     icon: <FaVuejs className="h-16 w-16 text-emerald-500" />,
     text: "Vue.js is my first framework that I learned, I have done several projects with it, most of them are real projects for customers, I can single out one personal one that is listed below in the link",
   },
+  
   {
     id: nanoid(),
     title: "Node.js",
@@ -103,5 +104,14 @@ export const projects = [
     github: "https://github.com/aleksandar-stotka/News-project",
     title: "News-Project",
     text: "My personal project is a small yet useful application that utilizes APIs and queries. With this app, users can select the area in which they wish to receive information. Additionally, the application is built using React.js to ensure scalability without unnecessary complexity",
+  },
+  {
+    id: nanoid(),
+    img: "https://img.freepik.com/free-photo/quadcopter-flying-nature_231208-10459.jpg",
+    
+
+    github: "https://github.com/aleksandar-stotka/drone-web",
+    title: "Drone-Web",
+    text: " Drone website, working on this site I learned about e commerce platforms, stripe an so on..",
   },
 ];
