@@ -25,7 +25,7 @@ const Hero = () => {
           </div>
         </article>
         <article className='rounded-3xl'>
-          <img className='rounded-tl-lg rounded-br-md w-full' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx74a_Vs44_RPo5XFL9nkQ5PTYYr9e2NMW-FM5KZn3ig&s" alt="hero" />
+          <img className='rounded-tl-lg rounded-br-md w-full' src="./signal.jpg" alt="hero" />
         </article>
       </div>
     </div>
