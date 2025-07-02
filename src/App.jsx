@@ -8,7 +8,6 @@ import Projects from './components/Projects';
 const App = () => {
   return (
  <>
- <p>test</p>
       <Navbar/>
     <Hero/>
     <Skills/>
