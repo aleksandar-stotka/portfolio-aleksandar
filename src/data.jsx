@@ -1,5 +1,5 @@
 import { nanoid } from "nanoid";
-import { FaAws, FaHtml5, FaJs, FaLinux, FaNodeJs, FaPython, FaReact, FaVuejs } from "react-icons/fa";
+import { FaAws, FaDigitalOcean, FaHtml5, FaJs, FaLinux, FaNodeJs, FaPython, FaReact, FaVuejs } from "react-icons/fa";
 
 export const links = [
   { id: nanoid(), href: "#home", text: "home" },
@@ -58,6 +58,13 @@ export const skills = [
     icon: <FaAws className="h-16 w-16 text-emerald-500" />,
     text: "Modestly knowledge of Aws, future field of research, I learned about aws when I was studying DeVops "
   },
+  {
+    id: nanoid(),
+    title: "digitalocean",
+    icon: <FaDigitalOcean className="h-16 w-16 text-emerald-500" />,
+    text: "Built and deployed a website from scratch using DigitalOcean. Gained hands-on experience managing servers and deploying web applications — an area I’m keen to explore further." 
+    
+  },
  
   
 ];
@@ -69,6 +76,13 @@ export const projects = [
     github: "https://gitlab.com/slavcoc/law-office-lazarov",
     title: "law-office-lazarov",
     text: "This website represents my first substantial project as a developer. Built entirely with Nuxt.js and powered by Strapi, an open-source Node.js headless CMS, it showcases my initial foray into creating dynamic and scalable online solutions. This project reflects a significant milestone in my development journey, combining powerful technologies to deliver a robust user experience",
+  },
+  {
+    id: nanoid(),
+    img: "https://scontent.fskp2-1.fna.fbcdn.net/v/t39.30808-6/474812802_122096928230749481_3009033094274315750_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=UQdM265hXVUQ7kNvwEszlZ_&_nc_oc=AdkQtPFt8ArwO0nJlSjbWQ_7aqj7PEit6OYDxJ6nNyKW0SRah7nZ01RxmYVy5iFd7uo&_nc_zt=23&_nc_ht=scontent.fskp2-1.fna&_nc_gid=Zlt0J93m28wGaIOMQ-mxFQ&oh=00_AfRStcoq5r_Mk28Dk66hVKksZiopfv1SKynxBpBDfKgL9g&oe=688F94B5",
+    url: "https://skara-house.com/",
+    title: "Skara House",
+    text: "Built Skara House, a grill food website, from scratch. Deployed with Docker on DigitalOcean",
   },
   {
     id: nanoid(),
