@@ -31,7 +31,7 @@ export const skills = [
     id: nanoid(),
     title: "Vue.js",
     icon: <FaVuejs className="h-16 w-16 text-emerald-500" />,
-    text: "Vue.js is my first framework that I learned, I have done several projects with it, most of them are real projects for customers, I can single out one personal one that is listed below in the link",
+    text: "Vue.js was the first framework I learned, and I’ve completed several projects with it — most of them for real clients. You can find two of my personal projects linked below."
   },
   
   {
