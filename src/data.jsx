@@ -103,15 +103,6 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "https://img.freepik.com/premium-vector/connecting-people-social-network-concept-bright-background-vector-illustration_191567-956.jpg",
-    url: "https://project-friends-connect.netlify.app",
-
-    github: "https://github.com/aleksandar-stotka/project-friends-connect",
-    title: "Project Friends Connect",
-    text: "My Simple Project Manager: An Interactive Web Platform crafted with React.js, where users can effortlessly create and manage their own projects while engaging in seamless communication. Utilizing Firebase as a real-time database, it ensures efficient and reliable management of project data ",
-  },
-  {
-    id: nanoid(),
     img: "https://reactjsexample.com/content/images/2021/10/Magic-Memory-Game-with-ReactJS.jpg",
     url: "https://magic-match-sto.netlify.app/",
 
